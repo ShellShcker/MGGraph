@@ -348,3 +348,12 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+#SQLite
+*.sqlite3
+
+#Jupyter Checkpoints Folder
+.ipynb_checkpoints/
+
+#Django Migrations
+.migrations/
