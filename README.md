@@ -1,8 +1,6 @@
 # MGGraph - MGDrivE Animation Tool 
 
-```english
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-```
 
 MGGraph is an analytics software focused of the predictive models of [MGDrive](https://marshalllab.github.io/MGDrivE/). The main function of MGGraph is the creation of dynamic graphics with personalizable tools.
 
