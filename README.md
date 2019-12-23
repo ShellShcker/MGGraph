@@ -12,7 +12,7 @@ The repository contains the software solution and notebooks with documentation a
 
 * [Bokeh](https://docs.bokeh.org/en/1.4.0/): Interactive visualization library for modern web browsers. It provides elegant, concise construction of versatile graphics, and affords high-performance interactivity over large or streaming datasets. 
 
-  [![bokehBanner](/home/marco/Documents/MGGraph/Jupyter/static/img/bokehBanner.png)](https://www.kdnuggets.com/2017/08/interview-bryan-van-de-ven-bokeh.html)
+  [![bokehBanner](/https://github.com/ShellShocker08/MGGraph/blob/develop/Jupyter/static/img/bokehBanner.png)](https://www.kdnuggets.com/2017/08/interview-bryan-van-de-ven-bokeh.html)
 
   
 
@@ -20,5 +20,5 @@ The repository contains the software solution and notebooks with documentation a
 
 * [Pandas](https://pandas.pydata.org/): An open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the [Python](https://www.python.org/) programming language.
 
-The complete list of dependecies is in [Requirements.md](https://pandas.pydata.org/)
+The complete list of dependecies is in [Requirements.md](https://github.com/ShellShocker08/MGGraph/blob/develop/md/Dependencies.md)
 
