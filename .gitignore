@@ -353,7 +353,7 @@ MigrationBackup/
 *.sqlite3
 
 #Jupyter Checkpoints Folder
-.ipynb_checkpoints/
+..ipynb_checkpoints/
 
 #Django Migrations
 .migrations/
